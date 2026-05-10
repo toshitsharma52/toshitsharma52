@@ -4,7 +4,7 @@
 ## - Name:[Toshit Bhardwaj]
 
 ## - Overview:
---   This dataset contains information about varous restaurants, including their names,
+--   This dataset contains information about various restaurants, including their names,
 --   locations (cities), ratings, cuisines, and cost details.
 --   The primary purpose of this dataset is to analyze restaurant trends, customer
 --   preferences, and performance based on ratings and other factors. 
